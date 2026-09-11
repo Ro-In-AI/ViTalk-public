@@ -1,11 +1,15 @@
 {
-  "version": "0.6.0",
-  "notes": "恢复左下角版本展示与自动更新，升级应用外壳、语音链路观测和设置体验。",
-  "pub_date": "2026-08-30T14:12:16.3061330Z",
+  "version": "0.6.4",
+  "notes": "改善录音保存与恢复、纠错学习和思考档位。注意：默认官方云端 API 尚不可用，详见 Release 已知限制。",
+  "pub_date": "2026-09-11T03:09:37.679Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnA4dXQ5b0IvMDNJMU1nRnNNNU5xS0VrTm9jSHJqMm8rZGJpeHdRa01xY2VaZFlkRVdOcUY4a28va0dEZkM0b29ocUlHWEs3R25nYVkxZFFxZ0dvdFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDk4OTAzCWZpbGU6VmlUYWxrXzAuNi4wX3g2NC1zZXR1cC5leGUKSFpzbW85V3NITVVQdXNoV2Nsb1VaeVkvR25td0dxNlc0ODk2eURmWW0rK0YxVkdnVXF3OVUrSyttdnlMZWlsK3JxcVowUXVOVHozZWdVOEdiVExGRGc9PQo=",
-      "url": "https://github.com/Ro-In-AI/ViTalk-public/releases/download/v0.6.0/ViTalk_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnRsdVRmY3ZHdVlzUWQ5RVRob3VBRXBYYWlOZFVtZi8wYUt2ZElEbVB0NEk3endDbWtZMGVhKzVCUkRFTmVvZDZOaDhMTjRIc0FvbVNja3pzM00reHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDk2MTE4CWZpbGU6VmlUYWxrXzAuNi40X3g2NC1zZXR1cC5leGUKcXZwVHlMdFNrTFdJbVFBNTBiSmZUTnNvWnB1VWU5cVVWOU1ycm5IV2htT1hiTXhTaDhqejhyVlBkbWM2ZWM4ZXdqV3pRRXg2UnlJZ3J1Z0ZLWUpEQUE9PQo=",
+      "url": "https://github.com/Ro-In-AI/ViTalk-public/releases/download/v0.6.4/ViTalk_0.6.4_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnRsdVRmY3ZHdVlzUWQ5RVRob3VBRXBYYWlOZFVtZi8wYUt2ZElEbVB0NEk3endDbWtZMGVhKzVCUkRFTmVvZDZOaDhMTjRIc0FvbVNja3pzM00reHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDk2MTE4CWZpbGU6VmlUYWxrXzAuNi40X3g2NC1zZXR1cC5leGUKcXZwVHlMdFNrTFdJbVFBNTBiSmZUTnNvWnB1VWU5cVVWOU1ycm5IV2htT1hiTXhTaDhqejhyVlBkbWM2ZWM4ZXdqV3pRRXg2UnlJZ3J1Z0ZLWUpEQUE9PQo=",
+      "url": "https://github.com/Ro-In-AI/ViTalk-public/releases/download/v0.6.4/ViTalk_0.6.4_x64-setup.exe"
     }
   }
 }
