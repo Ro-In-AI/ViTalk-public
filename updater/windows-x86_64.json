@@ -1,15 +1,15 @@
 {
   "version": "0.6.13",
   "notes": "修复插件滚动、飞书授权恢复和插件更新提示；语音发送插件1.0.1。",
-  "pub_date": "2026-10-07T08:15:48.035Z",
+  "pub_date": "2026-10-07T08:29:39.678Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmxMQWJlamRBMUhkMk1DQUF6VlVwcUNjUUNSdHRWOThKUzhjMlNUT3JPWWRzMUZUaElQekxuK1dFYnh2L2IzcTE3U1NGQmZTbDhKYUdybFE3am45L1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzYwOTQ3CWZpbGU6VmlUYWxrXzAuNi4xM194NjQtc2V0dXAuZXhlCkg5T1V5SHcrUCt3QlBJdThsS2JwcjFGVnQrajlQa000ZlN4cnM3a1BYMEhXS1pMcUhuMEo2a2VzSDdhdWRtTnBkVkVUQVZja0toMmNGWXplYzJ3TkRBPT0K",
-      "url": "https://github.com/Ro-In-AI/ViTalk-public/releases/download/v0.6.13/ViTalk_0.6.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnAzcjczejFYUytma3NCQmlBOURmc3Zob0tQb0hMcFhJWGNabE40Zlo4dDNHODFHRmRCVzErLzBTS2hHTUZuSVl0U01TbWN2Umd0RnpQenJBQVJCTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzYxNzYzCWZpbGU6VmlUYWxrXzAuNi4xM194NjQtc2V0dXAuZXhlCkN3ZndKMWV3V1pVU2l0d0JBT1A2L2V6Y3dESUxybHlFYjNkK2R4RDI1RTNieUp3WFJydTRnWmFwaWtqbldsSCtuNzFselNTQ2ZoRWc0eSs5NW9YL0R3PT0K",
+      "url": "https://api.github.com/repos/Ro-In-AI/ViTalk-public/releases/assets/618087717"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VmxMQWJlamRBMUhkMk1DQUF6VlVwcUNjUUNSdHRWOThKUzhjMlNUT3JPWWRzMUZUaElQekxuK1dFYnh2L2IzcTE3U1NGQmZTbDhKYUdybFE3am45L1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzYwOTQ3CWZpbGU6VmlUYWxrXzAuNi4xM194NjQtc2V0dXAuZXhlCkg5T1V5SHcrUCt3QlBJdThsS2JwcjFGVnQrajlQa000ZlN4cnM3a1BYMEhXS1pMcUhuMEo2a2VzSDdhdWRtTnBkVkVUQVZja0toMmNGWXplYzJ3TkRBPT0K",
-      "url": "https://github.com/Ro-In-AI/ViTalk-public/releases/download/v0.6.13/ViTalk_0.6.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK2NUNENKbGZ1VnAzcjczejFYUytma3NCQmlBOURmc3Zob0tQb0hMcFhJWGNabE40Zlo4dDNHODFHRmRCVzErLzBTS2hHTUZuSVl0U01TbWN2Umd0RnpQenJBQVJCTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzYxNzYzCWZpbGU6VmlUYWxrXzAuNi4xM194NjQtc2V0dXAuZXhlCkN3ZndKMWV3V1pVU2l0d0JBT1A2L2V6Y3dESUxybHlFYjNkK2R4RDI1RTNieUp3WFJydTRnWmFwaWtqbldsSCtuNzFselNTQ2ZoRWc0eSs5NW9YL0R3PT0K",
+      "url": "https://api.github.com/repos/Ro-In-AI/ViTalk-public/releases/assets/618087717"
     }
   }
 }
